@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning Next Js and AI
 - 💞️ I’m looking to collaborate with all people learning new technologies and want inovation in their lives
 - 😄 Thanks Every One to read 
-- ⚡ Programming is sometime difficult so dont eat bananas
 
 <!---
 AbdullahYounasDev/AbdullahYounasDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
