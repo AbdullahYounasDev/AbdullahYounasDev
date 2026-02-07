@@ -1,11 +1,29 @@
-- 👋 Hi, I’m Abdullah Younas
-- MERN Stack Developer | Passionate Learner | Innovator
+- Abdullah Younas | Full-Stack Developer
+Next.js & MERN Stack Specialist
+Full-Stack JavaScript Developer building scalable web apps and exploring AI-driven solutions. BS Software Engineering (Expected 2026).
 
-- 🚀 I specialize in building modern web applications using the MERN stack.
-- 👀 Always curious and eager to explore emerging technologies.
-- 🌱 Currently deepening my expertise in Next.js and exploring the world of Artificial Intelligence.
-- 🤝 Open to collaborations with like-minded developers and innovators who want to create meaningful solutions.
-- 🙌 Thank you for visiting my profile — let’s build something amazing together!
+- Tech Stack
+Languages: JavaScript, TypeScript
+Frontend: Next.js, React, Tailwind CSS, Redux
+Backend: Node.js, Express, GraphQL, REST APIs
+Databases: PostgreSQL (Prisma), MongoDB
+Tools: Docker, Git, Postman, Cloudinary
+
+- Experience
+Full-Stack Next.js Developer | Renders Hub (Dec 2024 – May 2025)
+Built full-stack car marketplace (buy/rent) like OLX
+Migrated React apps to Next.js for SEO & performance
+Managed GraphQL/Prisma backends & Docker deployments
+
+- Featured Projects
+Urban Point: Property platform with owner dashboard & auth (Next.js, MongoDB, NextAuth)
+My Mart: Organic e-commerce site with Redux state management & secure checkout
+
+- Contact
+Email: contact.abdullahyounas@gmail.com
+Portfolio: abdullah-younas.vercel.app
+GitHub: github.com/AbdullahYounasDev
+LinkedIn: linkedin.com/in/abdullah-younas
 
 <!---
 AbdullahYounasDev/AbdullahYounasDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
