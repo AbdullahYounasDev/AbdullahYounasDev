@@ -23,8 +23,8 @@ Full-Stack JavaScript Developer building scalable web apps and exploring AI-driv
 ---
 
 ## ⭐ Featured Projects
-- **Urban Point:** Property platform with owner dashboard & secure auth (Next.js, MongoDB, NextAuth)  
-- **My Mart:** Organic e-commerce site with Redux state management & secure checkout  
+- **[Urban Point](https://urban-point-fqqs.vercel.app/):** Property platform with owner dashboard & secure auth (Next.js, MongoDB, NextAuth)  
+- **[My Mart](https://abdullahyounasdev.github.io/My-Mart/):** Organic e-commerce site with Redux state management & secure checkout  
 
 ---
 
@@ -33,9 +33,3 @@ Full-Stack JavaScript Developer building scalable web apps and exploring AI-driv
 - **Portfolio:** [abdullah-younas.vercel.app](https://abdullah-younas.vercel.app)  
 - **GitHub:** [github.com/AbdullahYounasDev](https://github.com/AbdullahYounasDev)  
 - **LinkedIn:** [linkedin.com/in/abdullah-younas](https://linkedin.com/in/abdullah-younas)
-
-
-<!---
-AbdullahYounasDev/AbdullahYounasDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
