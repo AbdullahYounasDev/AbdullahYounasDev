@@ -1,30 +1,31 @@
-# Abdullah Younas | Full-Stack Developer
-**Next.js & MERN Stack Specialist**
-
-Full-Stack JavaScript Developer building scalable web apps and exploring AI-driven solutions.
+# Abdullah Younas
+**Full-Stack JavaScript & TypeScript Engineer | React, Next.js, Node.js & RAG**
 
 ## Education
-**BS Software Engineering** *2022 - 2026*
+**BS Software Engineering** · 2022 – 2026
+Gujrat Institute of Management Sciences, PMAS Arid Agriculture University Rawalpindi
 
 ## Tech Stack
-- **Languages:** JavaScript, TypeScript  
-- **Frontend:** Next.js, React, Tailwind CSS, Redux  
-- **Backend:** Node.js, Express, GraphQL, REST APIs  
-- **Databases:** PostgreSQL (Prisma), MongoDB  
-- **Tools:** Docker, Git, Postman, Cloudinary  
+- **Languages:** JavaScript, TypeScript, SQL
+- **Frontend:** Next.js, React, React Native, Tailwind CSS, Redux
+- **Backend:** Node.js, Express.js, REST, GraphQL, NextAuth.js
+- **Databases:** PostgreSQL (Prisma), MongoDB (Mongoose), Redis, pgvector
+- **AI:** RAG, LangChain, Gemini API, STT/TTS
+- **DevOps:** Docker, Nginx, GitHub Actions, Vercel, Git
 
 ## Experience
-**Full-Stack Next.js Developer | Renders Hub** *(Dec 2024 – May 2025)*  
-- Built full-stack car marketplace (buy/rent) like OLX  
-- Migrated React apps to Next.js for SEO & performance  
-- Managed GraphQL/Prisma backends & Docker deployments  
+- **Associate Software Developer | Zelta Code** · *Mar 2026 – Present*
+- **Full-Stack Next.js Developer (Intern) | Renders Hub** · *Dec 2024 – May 2025*
+- **Freelance Web Developer** · *Self-employed*
 
 ## Featured Projects
-- **[Urban Point](https://urban-point-fqqs.vercel.app/):** Property platform with owner dashboard & secure auth (Next.js, MongoDB, NextAuth)  
-- **[My Mart](https://abdullahyounasdev.github.io/My-Mart/):** Organic e-commerce site with Redux state management & secure checkout  
+- **[Vision Aid Glasses](https://abdullah-younas.vercel.app/vision-aid):** Edge AI smart glasses for visually impaired — YOLOv5, ToF, voice feedback *(FYP)*
+- **[Clinic HMS](https://clinic-hms.vercel.app):** Clinic management system — Next.js, MongoDB, RBAC
+- **[Caller AI Agent](https://github.com/AbdullahYounasDev/caller-ai-agent):** RAG voice agent — Next.js, pgvector, STT/TTS
+- **[Florix – AI Farming App](https://drive.google.com/file/d/1IFvnrIW7LwwVoBwKgkcOPX1UCMGAOsrS):** React Native crop-disease detection + Gemini chatbot, Express.js & Redis backend
 
 ## Contact
-- **Email:** [contact.abdullahyounas@gmail.com](mailto:contact.abdullahyounas@gmail.com)  
-- **Portfolio:** [abdullah-younas.vercel.app](https://abdullah-younas.vercel.app)  
-- **GitHub:** [github.com/AbdullahYounasDev](https://github.com/AbdullahYounasDev)  
+- **Email:** [contact.abdullahyounas@gmail.com](mailto:contact.abdullahyounas@gmail.com)
+- **Portfolio:** [abdullah-younas.vercel.app](https://abdullah-younas.vercel.app)
+- **GitHub:** [github.com/AbdullahYounasDev](https://github.com/AbdullahYounasDev)
 - **LinkedIn:** [linkedin.com/in/abdullah-younas](https://linkedin.com/in/abdullah-younas)
